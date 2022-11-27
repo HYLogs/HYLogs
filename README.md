@@ -4,7 +4,7 @@
 # HYLogs
 
 ## Tech
--Python
+- Python
 
 
 <a href="https://HYLogs.github.io">
