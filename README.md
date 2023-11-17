@@ -5,9 +5,9 @@
 
 
 ## :clipboard: Projects :clipboard:
-- [<u>2023 - CapstoneDesign</u>](https://github.com/HYLogs/CapstoneDesign)
-- [<u>2022 - CapstoneDesign</u>](https://github.com/HYLogs/cloth_finder_socketServer)
-- [<u>2022 - CapstoneDesign - CosinSimilarity_FinetuningModel</u>](https://github.com/HYLogs/CosinSimilarity_FinetuningModel)
+[<u>2023 - CapstoneDesign</u>](https://github.com/HYLogs/CapstoneDesign)   
+[<u>2022 - CapstoneDesign</u>](https://github.com/HYLogs/cloth_finder_socketServer)   
+[<u>2022 - CapstoneDesign - CosinSimilarity_FinetuningModel</u>](https://github.com/HYLogs/CosinSimilarity_FinetuningModel)
 
 </br>
 </br>
