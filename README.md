@@ -12,6 +12,8 @@
 </a>
 
 </br>
+</br>
+</br>
 
 ## :hammer_and_wrench: Tech :hammer_and_wrench:
 <img src="https://img.shields.io/badge/JAVA-e18a01?style=for-the-badge"/>
@@ -19,16 +21,19 @@
 <img src="https://img.shields.io/badge/CSharp-642076?style=for-the-badge&logo=csharp&logoColor=white">
 
 </br>
+</br>
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-7880E5?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
 </br>
+</br>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-116149?style=for-the-badge&logo=MongoDB&logoColor=white">
 
+</br>
 </br>
 
 <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
