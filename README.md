@@ -5,7 +5,7 @@
 
 
 ## :clipboard: Projects :clipboard:
-[<u>2024 - KT AIVLESCHOOL</u>](https://github.com/AIVLE11-AIT/AIT-backend)
+[<u>2024 - KT AIVLESCHOOL(BackEnd)</u>](https://github.com/AIVLE11-AIT/AIT-backend)   
 [<u>2023 - CapstoneDesign</u>](https://github.com/HYLogs/CapstoneDesign)   
 [<u>2022 - CapstoneDesign</u>](https://github.com/HYLogs/cloth_finder_socketServer)   
 [<u>2022 - CapstoneDesign - CosinSimilarity_FinetuningModel</u>](https://github.com/HYLogs/CosinSimilarity_FinetuningModel)
