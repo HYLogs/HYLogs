@@ -5,10 +5,12 @@
 
 
 ## :clipboard: Projects :clipboard:
-[<u>2024 - KT AIVLESCHOOL(BackEnd)</u>](https://github.com/AIVLE11-AIT/AIT-backend)   
-[<u>2023 - CapstoneDesign</u>](https://github.com/HYLogs/CapstoneDesign)   
-[<u>2022 - CapstoneDesign</u>](https://github.com/HYLogs/cloth_finder_socketServer)   
-[<u>2022 - CapstoneDesign - CosinSimilarity_FinetuningModel</u>](https://github.com/HYLogs/CosinSimilarity_FinetuningModel)
+|기간|프로젝트 명|주제|link|
+|------|---|---|---|
+|2024-06 ~ 2024-08|KT AIVLESCHOOL(BackEnd)|AI 면접 시스템|[link](https://github.com/AIVLE11-AIT/AIT-backend)|
+|2023-03 ~ 2023-08|23-CapstoneDesign|강의 지원 시스템|[link](https://github.com/HYLogs/CapstoneDesign)|
+|2022-03 ~ 2022-08|22-CapstoneDesign|사진 기반 옷 추천 시스템|[link](https://github.com/HYLogs/cloth_finder_socketServer)|
+|2022-03 ~ 2022-08|22-CapstoneDesign(유사도 측정 모듈)|사진 기반 옷 추천 시스템|[link](https://github.com/HYLogs/CosinSimilarity_FinetuningModel)|
 
 </br>
 </br>
