@@ -7,10 +7,11 @@
 ## :clipboard: Projects :clipboard:
 |기간|프로젝트 명|주제|link|
 |------|---|---|---|
-|2024-06 ~ 2024-08|KT AIVLESCHOOL(BackEnd)|AI 면접 시스템|[link](https://github.com/AIVLE11-AIT/AIT-backend)|
+|2024-06 ~ 2024-08|KT AIVLESCHOOL|AI 면접 시스템(BackEnd)|[link](https://github.com/AIVLE11-AIT/AIT-backend)|
+|2023-04 ~ 2023-09|한이음|쿠버네티스를 활용한 무중단 MSA 서비스 배포 플랫폼|[link](https://github.com/HYLogs/HaniumProject_Zero-downtime-Deployment)|
 |2023-03 ~ 2023-08|23-CapstoneDesign|강의 지원 시스템|[link](https://github.com/HYLogs/CapstoneDesign)|
-|2022-03 ~ 2022-08|22-CapstoneDesign|사진 기반 옷 추천 시스템|[link](https://github.com/HYLogs/cloth_finder_socketServer)|
-|2022-03 ~ 2022-08|22-CapstoneDesign(유사도 측정 모듈)|사진 기반 옷 추천 시스템|[link](https://github.com/HYLogs/CosinSimilarity_FinetuningModel)|
+|2022-03 ~ 2022-08|22-CapstoneDesign|사진 기반 옷 추천 어플|[link](https://github.com/HYLogs/cloth_finder_socketServer)|
+|2022-03 ~ 2022-08|22-CapstoneDesign|사진 기반 옷 추천 어플(유사도 측정 모듈)|[link](https://github.com/HYLogs/CosinSimilarity_FinetuningModel)|
 
 </br>
 </br>
