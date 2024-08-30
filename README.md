@@ -12,6 +12,7 @@
 |2023-03 ~ 2023-08|23-CapstoneDesign|강의 지원 시스템|[link](https://github.com/HYLogs/CapstoneDesign)|
 |2022-03 ~ 2022-08|22-CapstoneDesign|사진 기반 옷 추천 어플|[link](https://github.com/HYLogs/cloth_finder_socketServer)|
 |2022-03 ~ 2022-08|22-CapstoneDesign|사진 기반 옷 추천 어플(유사도 측정 모듈)|[link](https://github.com/HYLogs/CosinSimilarity_FinetuningModel)|
+|2021-03 ~ 2021-08|문제해결프로젝트|스마트컨트랙트를 활용한 데이터 저장|[link](https://hylogs.github.io/blockchain/PythonDapp/)|
 
 </br>
 </br>
